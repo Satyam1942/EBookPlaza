@@ -1,3 +1,4 @@
+# EBookPlaza
 This android application allows users to search for books . Users can also read books and buy them.
 
 – Developed an eBook application using **Android Studio** and **Java**, integrating the **Google Books API** for retrieving
